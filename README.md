@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalvadet
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Discrete Maths and Python
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently studying Applied Data Science at Noroff University College
 - 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me kalvadet@gmail.com
 
